@@ -1,0 +1,11 @@
+, Ekaterina, Ilyina, , St.Petersburg
+, Alexandr, Evdokimov, 482, Volokolamsk
+, , , ,
+, Vasiliy, , 7123465, Moscow
+, sdfsdf, dwfef, 9994532, Rostov
+, ffff, ffff, ffff, fffff
+, Dmitriy, Smirnov, 9355r24, Kazan
+, Valeria, Kolokolkina, 12O4352, St.Petersburg
+, , , 8954245, Moscow
+, NO_NAME, NO_NAME, 2856735, Kaliningrad
+, fwefwgwgwfds, sfewrfw, 9584356, Pskov
